@@ -1,1 +1,1 @@
-# DevOps
+Devops is a process or culture of improving the application delivery by ensuring the proper automation is placed, there is a quality of code have maintained, continuous monitoring and there'll be a continuous testing.
